@@ -1,0 +1,1 @@
+Ruby gem for classifying plankton.  Created for Kaggle competition "National Data Science Bowl": https://www.kaggle.com/c/datasciencebowl.

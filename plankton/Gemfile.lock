@@ -1,0 +1,14 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    descriptive_statistics (2.5.1)
+    rmagick (2.13.4)
+    ruby-vips (0.3.9)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  descriptive_statistics
+  rmagick
+  ruby-vips

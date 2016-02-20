@@ -1,0 +1,5 @@
+source 'https://rubygems.org'
+
+gem 'rmagick'
+gem 'descriptive_statistics'
+gem 'ruby-vips'
